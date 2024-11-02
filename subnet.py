@@ -45,9 +45,9 @@ p7Last = '180.166.8.222'
 
 #problem 8
 p8Network = '91.151.225.128'
-p8Broadcast = '91.151.225.225'
+p8Broadcast = '91.151.225.255'
 p8First = '91.151.225.129'
-p8Last = '91.151.225.224'
+p8Last = '91.151.225.254'
 
 #problem 9
 p9Network = '2.136.187.32'
